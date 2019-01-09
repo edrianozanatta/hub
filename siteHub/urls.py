@@ -20,7 +20,10 @@ from django.urls import path
 from siteHub.hub import urls as site_urls
 
 
+from django.conf import settings
+from django.conf.urls.static import static
+
 urlpatterns = [
     path('admin/', admin.site.urls),
     url(r'^', include(site_urls, namespace='site')),
-]
+] + static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
