@@ -57,7 +57,7 @@
     <session id="-1280092034">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.7" value="2" />
@@ -68,13 +68,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="344" />
-          <entry key="py" value="18" />
+          <entry key="py" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="344" />
-          <entry key="Python" value="18" />
+          <entry key="Python" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -160,8 +160,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/siteHub/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="918">
-              <caret line="60" selection-start-line="60" selection-end-line="60" />
+            <state relative-caret-position="374">
+              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
             </state>
           </provider>
         </entry>
@@ -215,8 +215,8 @@
         <option value="$PROJECT_DIR$/siteHub/hub/views.py" />
         <option value="$PROJECT_DIR$/siteHub/hub/urls.py" />
         <option value="$PROJECT_DIR$/siteHub/hub/templates/home.html" />
-        <option value="$PROJECT_DIR$/siteHub/settings.py" />
         <option value="$PROJECT_DIR$/siteHub/urls.py" />
+        <option value="$PROJECT_DIR$/siteHub/settings.py" />
       </list>
     </option>
   </component>
@@ -313,7 +313,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="784" height="840" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.270415" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -420,8 +419,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/siteHub/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="60" selection-start-line="60" selection-end-line="60" />
+        <state relative-caret-position="374">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
         </state>
       </provider>
     </entry>
